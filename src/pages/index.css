@@ -27,3 +27,13 @@
 @import url(../blocks/header/__item-title/header__item-title.css);
 @import url(../blocks/header/__item-nice-title/header__item-nice-title.css);
 @import url(../blocks/header/__description/header__description.css);
+
+@import url(../blocks/history/history.css);
+@import url(../blocks/history/__about/history__about.css);
+@import url(../blocks/history/__title/history__title.css);
+@import url(../blocks/history/__nice-title/history__nice-title.css);
+@import url(../blocks/history/__description/history__description.css);
+@import url(../blocks/history/__food-items/history__food-items.css);
+@import url(../blocks/history/__number-of-menu-items/history__number-of-menu-items.css);
+@import url(../blocks/history/__number/history__number.css);
+@import url(../blocks/history/__menu-item/history__menu-item.css);

@@ -1,0 +1,5 @@
+.history__number-of-menu-items {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2px;
+}

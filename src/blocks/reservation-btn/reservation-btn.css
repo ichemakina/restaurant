@@ -1,4 +1,4 @@
-.header__reservation-btn {
+.reservation-btn {
     width: 157px;
     height: 47px;
     background: #FF7400;
@@ -9,13 +9,15 @@
     letter-spacing: 0em;
     text-align: center;
     color: #fff;
-    margin-left: 45px;
     border: none;
     padding: 0;
     cursor: pointer;
     transition: opacity 1s ease-out;
+    z-index: 1;
+    align-self: center;
 }
 
-.header__reservation-btn:hover {
+
+.reservation-btn:hover {
     opacity: 0.7;
 }

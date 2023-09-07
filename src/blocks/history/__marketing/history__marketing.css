@@ -1,0 +1,24 @@
+.history__marketing {
+    margin-top: 122px;
+    background-image: url('../../../images/marketing.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 357px;
+    position: relative;
+    padding-left: 165px;
+    padding-right: 186px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.history__marketing::after {
+    content: "";
+    background-color: #000000;
+    opacity: 85%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}

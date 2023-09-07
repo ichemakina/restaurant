@@ -1,0 +1,16 @@
+.header__cart {
+    background-image: url('../../../images/cart.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 13px;
+    width: 13px;
+    margin-left: 36px;
+    margin-right: 21px;
+    cursor: pointer;
+    transition: opacity 1s ease-out;
+}
+
+.header__cart:hover {
+    opacity: 0.7;
+}

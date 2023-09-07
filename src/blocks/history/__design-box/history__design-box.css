@@ -1,0 +1,9 @@
+.history__design-box {
+    width: 212px;
+    height: 164px;
+    background-color: #FFE8D0;
+    z-index: 0;
+    position: absolute;
+    top: 34px;
+    right: 42px;
+}

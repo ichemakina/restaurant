@@ -1,0 +1,5 @@
+.history__about-and-images {
+    display: flex;
+    padding: 0px 166px;
+    justify-content: space-between;
+}

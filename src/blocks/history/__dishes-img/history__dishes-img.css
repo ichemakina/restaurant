@@ -1,0 +1,9 @@
+.history__dishes-img {
+    width: 233px;
+    height: 300px;
+    z-index: 2;
+    box-shadow: 20px 0px 30px 3px #00000080;
+    position: absolute;
+    top: 65px;
+    right: 306px;
+}

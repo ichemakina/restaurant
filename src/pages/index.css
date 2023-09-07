@@ -29,6 +29,7 @@
 @import url(../blocks/header/__description/header__description.css);
 
 @import url(../blocks/history/history.css);
+@import url(../blocks/history/__about-and-images/history__about-and-images.css);
 @import url(../blocks/history/__about/history__about.css);
 @import url(../blocks/history/__title/history__title.css);
 @import url(../blocks/history/__nice-title/history__nice-title.css);
@@ -37,3 +38,8 @@
 @import url(../blocks/history/__number-of-menu-items/history__number-of-menu-items.css);
 @import url(../blocks/history/__number/history__number.css);
 @import url(../blocks/history/__menu-item/history__menu-item.css);
+@import url(../blocks/history/__images/history__images.css);
+@import url(../blocks/history/__design-box/history__design-box.css);
+@import url(../blocks/history/__cake-img/history__cake-img.css);
+@import url(../blocks/history/__interior-img/history__interior-img.css);
+@import url(../blocks/history/__dishes-img/history__dishes-img.css);

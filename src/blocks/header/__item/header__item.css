@@ -1,0 +1,6 @@
+.header__item {
+    min-height: 328px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}

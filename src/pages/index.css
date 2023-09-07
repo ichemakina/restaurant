@@ -21,3 +21,9 @@
 @import url(../blocks/header/__restaurant-name/header__restaurant-name.css);
 @import url(../blocks/header/__slogan/header__slogan.css);
 @import url(../blocks/header/__menu-btn/header__menu-btn.css);
+@import url(../blocks/header/__intro/header__intro.css);
+@import url(../blocks/header/__item/header__item.css);
+@import url(../blocks/header/__dish-img/header__dish-img.css);
+@import url(../blocks/header/__item-title/header__item-title.css);
+@import url(../blocks/header/__item-nice-title/header__item-nice-title.css);
+@import url(../blocks/header/__description/header__description.css);

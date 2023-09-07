@@ -1,0 +1,6 @@
+.header__intro {
+    display: grid;
+    column-gap: 31px;
+    grid-template-columns: repeat(3, 349px);
+    transform: translate(0, 221px);
+}

@@ -1,7 +1,15 @@
 @font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url("OpenSansLight.woff") format("woff");
-  }
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("OpenSansLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("TinosRegular.woff") format("woff");
+}

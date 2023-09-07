@@ -16,3 +16,8 @@
 @import url(../blocks/header/__phone-number/header__phone-number.css);
 @import url(../blocks/header/__phone-caption/header__phone-caption.css);
 @import url(../blocks/header/__reservation-btn/header__reservation-btn.css);
+@import url(../blocks/header/__our-restautant/header__our-restautant.css);
+@import url(../blocks/header/__welcome/header__welcome.css);
+@import url(../blocks/header/__restaurant-name/header__restaurant-name.css);
+@import url(../blocks/header/__slogan/header__slogan.css);
+@import url(../blocks/header/__menu-btn/header__menu-btn.css);

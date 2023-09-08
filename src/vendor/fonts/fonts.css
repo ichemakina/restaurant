@@ -21,3 +21,11 @@
   font-display: swap;
   src: url("CookieRegular.woff") format("woff");
 }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("OpenSansItalic.woff") format("woff");
+}

@@ -1,0 +1,13 @@
+.feedback__text {
+    max-width: 920px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 0;
+}

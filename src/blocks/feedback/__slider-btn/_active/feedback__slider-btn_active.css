@@ -1,0 +1,7 @@
+.feedback__slider-btn_active {
+    width: 7px;
+    height: 7px;
+    background-color: #E5E5E5;
+    border: 1px solid #FF7400;
+    margin-top: -2px;
+}

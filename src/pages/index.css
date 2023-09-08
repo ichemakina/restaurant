@@ -72,3 +72,11 @@
 @import url(../blocks/menu/__item-title/menu__item-title.css);
 @import url(../blocks/menu/__item-subtitle/menu__item-subtitle.css);
 @import url(../blocks/menu/__order-btn/menu__order-btn.css);
+
+@import url(../blocks/feedback/feedback.css);
+@import url(../blocks/feedback/__text/feedback__text.css);
+@import url(../blocks/feedback/__guest-photo/feedback__guest-photo.css);
+@import url(../blocks/feedback/__guest-name/feedback__guest-name.css);
+@import url(../blocks/feedback/__slider-buttons/feedback__slider-buttons.css);
+@import url(../blocks/feedback/__slider-btn/feedback__slider-btn.css);
+@import url(../blocks/feedback/__slider-btn/_active/feedback__slider-btn_active.css);

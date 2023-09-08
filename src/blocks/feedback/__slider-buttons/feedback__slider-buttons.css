@@ -1,0 +1,8 @@
+.feedback__slider-buttons {
+    list-style: none;
+    padding: 0;
+    margin-top: 26px;
+    margin-bottom: 0;
+    display: flex;
+    column-gap: 2px;
+}

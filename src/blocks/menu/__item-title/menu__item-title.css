@@ -1,0 +1,10 @@
+.menu__item-title {
+    font-family: 'Tinos';
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #000;
+    margin-top: 22px;
+    margin-bottom: 0;
+}

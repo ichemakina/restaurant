@@ -1,0 +1,9 @@
+.menu {
+    background-image: url('../../images/bar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 1034px;
+    padding: 100px 165px 0;
+    margin-top: 152px;
+}

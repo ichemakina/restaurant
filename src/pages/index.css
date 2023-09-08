@@ -60,3 +60,15 @@
 @import url(../blocks/daily-offers/__price-item/daily-offers__price-item.css);
 @import url(../blocks/daily-offers/__price/daily-offers__price.css);
 @import url(../blocks/daily-offers/__indent/daily-offers__indent.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__recommendation/menu__recommendation.css);
+@import url(../blocks/menu/__title/menu__title.css);
+@import url(../blocks/menu/__items/menu__items.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/menu/__img-and-price/menu__img-and-price.css);
+@import url(../blocks/menu/__img/menu__img.css);
+@import url(../blocks/menu/__item-price/menu__item-price.css);
+@import url(../blocks/menu/__item-title/menu__item-title.css);
+@import url(../blocks/menu/__item-subtitle/menu__item-subtitle.css);
+@import url(../blocks/menu/__order-btn/menu__order-btn.css);

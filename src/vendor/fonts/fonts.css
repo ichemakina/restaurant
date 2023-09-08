@@ -13,3 +13,11 @@
   font-display: swap;
   src: url("TinosRegular.woff") format("woff");
 }
+
+@font-face {
+  font-family: 'Cookie';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("CookieRegular.woff") format("woff");
+}

@@ -1,0 +1,11 @@
+.menu__title {
+    font-family: 'Tinos';
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0em;
+    color: #fff;
+    text-align: center;
+    box-shadow: 5px 5px 4px 0px #00000040;
+    margin: 0;
+}

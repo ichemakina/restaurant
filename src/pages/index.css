@@ -29,11 +29,12 @@
 
 @import url(../blocks/reservation-btn/reservation-btn.css);
 
+@import url(../blocks/orange-title/orange-title.css);
+
 @import url(../blocks/history/history.css);
 @import url(../blocks/history/__about-and-images/history__about-and-images.css);
 @import url(../blocks/history/__about/history__about.css);
 @import url(../blocks/history/__title/history__title.css);
-@import url(../blocks/history/__nice-title/history__nice-title.css);
 @import url(../blocks/history/__description/history__description.css);
 @import url(../blocks/history/__food-items/history__food-items.css);
 @import url(../blocks/history/__number-of-menu-items/history__number-of-menu-items.css);
@@ -51,7 +52,6 @@
 
 @import url(../blocks/daily-offers/daily-offers.css);
 @import url(../blocks/daily-offers/__title/daily-offers__title.css);
-@import url(../blocks/daily-offers/__nice-title/daily-offers__nice-title.css);
 @import url(../blocks/daily-offers/__items/daily-offers__items.css);
 @import url(../blocks/daily-offers/__main-img/daily-offers__main-img.css);
 @import url(\../blocks/daily-offers/__small-images/daily-offers__small-images.css);
@@ -80,3 +80,10 @@
 @import url(../blocks/feedback/__slider-buttons/feedback__slider-buttons.css);
 @import url(../blocks/feedback/__slider-btn/feedback__slider-btn.css);
 @import url(../blocks/feedback/__slider-btn/_active/feedback__slider-btn_active.css);
+
+@import url(../blocks/galeria/galeria.css);
+@import url(../blocks/galeria/__title/galeria__title.css);
+@import url(../blocks/galeria/__rectangles-and-photos/galeria__rectangles-and-photos.css);
+@import url(../blocks/galeria/__rectangle/galeria__rectangle.css);
+@import url(../blocks/galeria/__photos/galeria__photos.css);
+@import url(../blocks/galeria/__photo/galeria__photo.css);

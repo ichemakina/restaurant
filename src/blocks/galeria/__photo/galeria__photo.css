@@ -1,0 +1,7 @@
+.galeria__photo:nth-child(1) {
+    grid-column: 1/3;
+}
+
+.galeria__photo:nth-child(6) {
+    grid-column: 3/5;
+}

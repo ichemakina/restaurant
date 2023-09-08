@@ -1,0 +1,7 @@
+.galeria__rectangles-and-photos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;
+    width: 100%;
+}

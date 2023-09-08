@@ -3,4 +3,10 @@
     height: 5px;
     background-color: #C4C4C4;
     border-radius: 50%;
+    cursor: pointer;
+    transition: opacity 1s ease-out;
+}
+
+.feedback__slider-btn:hover {
+    opacity: 0.7;
 }

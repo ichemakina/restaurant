@@ -1,0 +1,9 @@
+.restaurant-photo__link {
+    text-decoration: none;
+    color: #fff;
+    transition: opacity 1s ease-out;
+}
+
+.restaurant-photo__link:hover {
+    opacity: 0.7;
+}

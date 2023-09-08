@@ -48,3 +48,15 @@
 @import url(../blocks/history/__marketing-text/history__marketing-text.css);
 @import url(../blocks/history/__marketing-title/history__marketing-title.css);
 @import url(../blocks/history/__marketing-description/history__marketing-description.css);
+
+@import url(../blocks/daily-offers/daily-offers.css);
+@import url(../blocks/daily-offers/__title/daily-offers__title.css);
+@import url(../blocks/daily-offers/__nice-title/daily-offers__nice-title.css);
+@import url(../blocks/daily-offers/__items/daily-offers__items.css);
+@import url(../blocks/daily-offers/__main-img/daily-offers__main-img.css);
+@import url(\../blocks/daily-offers/__small-images/daily-offers__small-images.css);
+@import url(../blocks/daily-offers/__small-img/daily-offers__small-img.css);
+@import url(../blocks/daily-offers/__prices/daily-offers__prices.css);
+@import url(../blocks/daily-offers/__price-item/daily-offers__price-item.css);
+@import url(../blocks/daily-offers/__price/daily-offers__price.css);
+@import url(../blocks/daily-offers/__indent/daily-offers__indent.css);

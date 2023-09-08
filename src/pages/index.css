@@ -87,3 +87,10 @@
 @import url(../blocks/galeria/__rectangle/galeria__rectangle.css);
 @import url(../blocks/galeria/__photos/galeria__photos.css);
 @import url(../blocks/galeria/__photo/galeria__photo.css);
+
+@import url(../blocks/chefs/chefs.css);
+@import url(../blocks/chefs/__title/chefs__title.css);
+@import url(../blocks/chefs/__images/chef__images.css);
+
+@import url(../blocks/restaurant-photo/restaurant-photo.css);
+@import url(../blocks/restaurant-photo/__copyright/restaurant-photo__copyright.css);

@@ -1,0 +1,10 @@
+.restaurant-photo__copyright {
+    color: #fff;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: right;
+    align-self: flex-end;
+    margin-right: 20px;
+}

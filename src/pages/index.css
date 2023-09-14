@@ -59,7 +59,7 @@
 @import url(../blocks/daily-offers/__prices/daily-offers__prices.css);
 @import url(../blocks/daily-offers/__price-item/daily-offers__price-item.css);
 @import url(../blocks/daily-offers/__price/daily-offers__price.css);
-@import url(../blocks/daily-offers/__indent/daily-offers__indent.css);
+@import url(../blocks/daily-offers/__item-title/daily-offers__item-title.css);
 
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__recommendation/menu__recommendation.css);

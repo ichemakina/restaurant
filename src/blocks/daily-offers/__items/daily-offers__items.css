@@ -1,6 +1,6 @@
 .daily-offers__items {
     display: grid;
-    grid-template-columns: 445px 160px 482px;
+    grid-template-columns: 445px 672px;
     column-gap: 30px;
     margin-top: 143px;
 }

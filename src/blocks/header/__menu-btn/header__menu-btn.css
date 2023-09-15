@@ -20,3 +20,9 @@
 .header__menu-btn:hover {
     opacity: 0.7;
 }
+
+@media screen and (max-width: 767px) {
+    .header__menu-btn {
+        margin-top: 54px;
+    }
+}

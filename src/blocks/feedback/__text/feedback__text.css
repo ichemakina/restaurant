@@ -8,6 +8,12 @@
     letter-spacing: 0em;
     text-align: center;
     color: #000;
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .feedback__text {
+        max-width: 290px;
+    }
 }

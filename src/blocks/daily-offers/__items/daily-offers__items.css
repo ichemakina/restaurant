@@ -4,3 +4,10 @@
     column-gap: 30px;
     margin-top: 143px;
 }
+
+@media screen and (max-width: 767px) {
+    .daily-offers__items {
+        grid-template-columns: 100%;
+        margin-top: 72px;
+    }
+}

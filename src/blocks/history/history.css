@@ -1,3 +1,9 @@
 .history {
     margin-top: 371px;
 }
+
+@media screen and (max-width: 767px) {
+    .history {
+        margin-top: 1030px;
+    }
+}

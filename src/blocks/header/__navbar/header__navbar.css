@@ -1,5 +1,13 @@
 .header__navbar {
     display: flex;
     margin-top: 55px;
+    justify-content: center;
     align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+    .header__navbar {
+        flex-direction: column;
+        gap: 50px;
+    }
 }

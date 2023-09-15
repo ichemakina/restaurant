@@ -22,3 +22,13 @@
     top: 0;
     left: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .history__marketing {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 15px;
+        margin-top: 50.93px;
+    }
+}

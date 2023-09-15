@@ -26,6 +26,7 @@
 @import url(../blocks/header/__item-title/header__item-title.css);
 @import url(../blocks/header/__item-nice-title/header__item-nice-title.css);
 @import url(../blocks/header/__description/header__description.css);
+@import url(../blocks/header/__navbar-btn/header__navbar-btn.css);
 
 @import url(../blocks/reservation-btn/reservation-btn.css);
 
@@ -54,12 +55,12 @@
 @import url(../blocks/daily-offers/__title/daily-offers__title.css);
 @import url(../blocks/daily-offers/__items/daily-offers__items.css);
 @import url(../blocks/daily-offers/__main-img/daily-offers__main-img.css);
-@import url(\../blocks/daily-offers/__small-images/daily-offers__small-images.css);
 @import url(../blocks/daily-offers/__small-img/daily-offers__small-img.css);
 @import url(../blocks/daily-offers/__prices/daily-offers__prices.css);
 @import url(../blocks/daily-offers/__price-item/daily-offers__price-item.css);
 @import url(../blocks/daily-offers/__price/daily-offers__price.css);
 @import url(../blocks/daily-offers/__item-title/daily-offers__item-title.css);
+@import url(../blocks/daily-offers/__item-title-and-price/daily-offers__item-title-and-price.css);
 
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__recommendation/menu__recommendation.css);
@@ -91,7 +92,13 @@
 @import url(../blocks/chefs/chefs.css);
 @import url(../blocks/chefs/__title/chefs__title.css);
 @import url(../blocks/chefs/__images/chef__images.css);
+@import url(../blocks/chefs/__img/chef__img.css);
 
 @import url(../blocks/restaurant-photo/restaurant-photo.css);
+@import url(../blocks/restaurant-photo/__copyrights/restaurant-photo__copyrights.css);
 @import url(../blocks/restaurant-photo/__copyright/restaurant-photo__copyright.css);
 @import url(../blocks/restaurant-photo/__link/restaurant-photo__link.css);
+
+@import url(../blocks/hidemobile/hidemobile.css);
+
+@import url(../blocks/nav/nav.css);

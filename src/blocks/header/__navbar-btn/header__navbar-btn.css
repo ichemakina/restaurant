@@ -1,0 +1,9 @@
+.header__navbar-btn {
+    background-image: url('../../../images/navbar-btn.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 17.75px;
+    width: 30.88px;
+    margin-top: 20px;
+}

@@ -8,3 +8,9 @@
     text-align: left;
     max-width: 154px;
 }
+
+@media screen and (max-width: 767px) {
+    .header__phone-caption {
+        max-width: 246px;
+    }
+}

@@ -8,3 +8,11 @@
     margin-top: 20px;
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .history__marketing-description {
+        text-align: center;
+        margin-top: 21px;
+        margin-bottom: 41px;
+    }
+}

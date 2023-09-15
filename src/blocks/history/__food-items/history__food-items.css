@@ -3,3 +3,12 @@
     justify-content: space-around;
     margin-top: 78px;
 }
+
+@media screen and (max-width: 767px) {
+    .history__food-items {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 22px;
+    }
+}

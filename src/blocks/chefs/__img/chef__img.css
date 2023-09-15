@@ -1,0 +1,10 @@
+.chef__img {
+    height: 462px;
+    width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .chef__img {
+        height: 380px;
+    }
+}

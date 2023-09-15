@@ -3,3 +3,11 @@
     min-height: 498px;
     position: relative;
 }
+
+@media screen and (max-width: 767px) {
+    .history__images {
+        width: 290px;
+        min-height: 257.07px;
+        margin-top: 45.52px;
+    }
+}

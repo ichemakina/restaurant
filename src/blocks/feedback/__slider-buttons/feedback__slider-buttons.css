@@ -6,3 +6,9 @@
     display: flex;
     column-gap: 2px;
 }
+
+@media screen and (max-width: 767px) {
+    .feedback__slider-buttons {
+        column-gap: 9px;
+    }
+}

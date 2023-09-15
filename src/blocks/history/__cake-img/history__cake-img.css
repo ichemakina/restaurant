@@ -6,3 +6,11 @@
     top: 0px;
     right: 94px;
 }
+
+@media screen and (max-width: 767px) {
+    .history__cake-img {
+        width: 137.2px;
+        height: 221.97px;
+        right: 50.58px;
+    }
+}

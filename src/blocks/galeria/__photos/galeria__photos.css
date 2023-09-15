@@ -1,7 +1,17 @@
 .galeria__photos {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr 1fr;
     gap: 30px;
     max-width: 1108px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+    .galeria__photos {
+        grid-template-columns: 1fr;
+        grid-template-rows: 6;
+        max-width: 290px;
+        gap: 20px;
+    }
 }

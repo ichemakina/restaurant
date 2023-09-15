@@ -1,3 +1,9 @@
 .history__about {
     width: 444px;
 }
+
+@media screen and (max-width: 767px) {
+    .history__about {
+        width: 290px;
+    }
+}

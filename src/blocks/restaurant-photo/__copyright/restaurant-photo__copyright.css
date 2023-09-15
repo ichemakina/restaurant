@@ -5,8 +5,5 @@
     font-weight: 700;
     line-height: 19px;
     text-align: right;
-    align-self: flex-end;
-    margin-right: 20px;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin: 0;
 }

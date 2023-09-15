@@ -8,3 +8,10 @@
     text-align: center;
     margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .header__welcome {
+        font-size: 30px;
+        line-height: 34px;
+    }
+}

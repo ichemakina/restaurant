@@ -7,3 +7,12 @@
     top: 65px;
     right: 306px;
 }
+
+@media screen and (max-width: 767px) {
+    .history__dishes-img {
+        width: 125.36px;
+        height: 154.86px;
+        top: 33.55px;
+        right: 164.64px;
+    }
+}

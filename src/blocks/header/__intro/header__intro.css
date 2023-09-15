@@ -1,6 +1,14 @@
 .header__intro {
     display: grid;
-    column-gap: 31px;
-    grid-template-columns: repeat(3, 349px);
+    gap: 31px;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
     transform: translate(0, 221px);
+}
+
+@media screen and (max-width: 767px) {
+    .header__intro {
+        transform: translate(0, 902px);
+        margin-top: -700px;
+        gap: 15px;
+    }
 }

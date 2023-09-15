@@ -9,3 +9,10 @@
     margin-top: 20px;
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .header__description {
+        font-size: 22px;
+        line-height: 25px;
+    }
+}

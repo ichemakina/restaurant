@@ -5,3 +5,12 @@
     max-width: 1110px;
     margin-top: 107px;
 }
+
+@media screen and (max-width: 767px) {
+    .chef__images {
+        grid-template-columns: 1fr;
+        gap: 17px;
+        max-width: 290px;
+        margin-top: 80px;
+    }
+}

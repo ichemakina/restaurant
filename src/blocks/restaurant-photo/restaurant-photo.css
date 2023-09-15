@@ -3,8 +3,15 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 732px;
+    min-height: 732px;
     margin-top: 100px;
     display: flex;
     justify-content: end;
+}
+
+@media screen and (max-width: 767px) {
+    .restaurant-photo {
+        min-height: 600px;
+        margin-top: 21px;
+    }
 }

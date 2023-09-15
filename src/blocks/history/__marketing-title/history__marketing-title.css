@@ -7,3 +7,11 @@
     color: #D67E34;
     margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .history__marketing-title {
+        font-size: 30px;
+        line-height: 34px;
+        text-align: center;
+    }
+}

@@ -3,3 +3,12 @@
     padding: 0px 166px;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 767px) {
+    .history__about-and-images {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 15px;
+    }
+}

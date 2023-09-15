@@ -9,3 +9,12 @@
     margin-top: 101px;
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .galeria__title {
+        font-size: 40px;
+        line-height: 46px;
+        margin-top: 71px;
+        max-width: 145px;
+    }
+}

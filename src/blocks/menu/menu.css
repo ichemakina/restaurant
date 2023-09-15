@@ -7,3 +7,11 @@
     padding: 100px 165px 0;
     margin-top: 152px;
 }
+
+@media screen and (max-width: 767px) {
+    .menu {
+        padding: 62px 15px 0;
+        min-height: 838px;
+        margin-top: 126.25px;
+    }
+}

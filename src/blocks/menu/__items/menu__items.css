@@ -4,6 +4,12 @@
     margin-bottom: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(3, 350px);
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
     column-gap: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    .menu__items {
+        margin-top: 98px;
+    }
 }

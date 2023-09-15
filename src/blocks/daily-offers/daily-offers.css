@@ -3,3 +3,10 @@
     padding-left: 165px;
     padding-right: 146px;
 }
+
+@media screen and (max-width: 767px) {
+    .daily-offers {
+        margin-top: 63px;
+        padding: 0;
+    }
+}

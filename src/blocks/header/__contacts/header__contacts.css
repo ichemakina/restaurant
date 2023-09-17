@@ -6,7 +6,7 @@
     margin-right: 45px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
     .header__contacts {
         margin: 0;
         padding-left: 15px;

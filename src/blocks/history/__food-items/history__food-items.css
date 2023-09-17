@@ -4,7 +4,7 @@
     margin-top: 78px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .history__food-items {
         flex-direction: column;
         align-items: center;

@@ -7,7 +7,7 @@
     column-gap: 2px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .feedback__slider-buttons {
         column-gap: 9px;
     }

@@ -10,7 +10,7 @@
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .history__description {
         margin-top: 48px;
     }

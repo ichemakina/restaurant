@@ -9,7 +9,7 @@
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .daily-offers__price {
         text-align: center;
     }

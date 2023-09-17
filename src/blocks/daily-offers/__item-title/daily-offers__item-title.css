@@ -19,15 +19,17 @@
     width: 204px;
 }
 
-@media screen and (max-width: 767px) {
-    .daily-offers__item-title {
-        font-size: 22px;
-        line-height: 25px;
-    }
-
+@media screen and (max-width: 1320px) {
     .daily-offers__item-title:after {
         margin: 0;
         border: none;
         width: 0;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .daily-offers__item-title {
+        font-size: 22px;
+        line-height: 25px;
     }
 }

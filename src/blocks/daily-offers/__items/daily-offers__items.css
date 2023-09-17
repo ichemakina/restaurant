@@ -5,7 +5,13 @@
     margin-top: 143px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1320px) {
+    .daily-offers__items {
+        grid-template-columns: 445px 468px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
     .daily-offers__items {
         grid-template-columns: 100%;
         margin-top: 72px;

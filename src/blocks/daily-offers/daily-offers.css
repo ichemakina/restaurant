@@ -4,7 +4,14 @@
     padding-right: 146px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1320px) {
+    .daily-offers {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media screen and (max-width: 620px) {
     .daily-offers {
         margin-top: 63px;
         padding: 0;

@@ -6,9 +6,16 @@
     margin-top: 107px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1320px) {
     .chef__images {
         grid-template-columns: 1fr;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .chef__images {
         gap: 17px;
         max-width: 290px;
         margin-top: 80px;

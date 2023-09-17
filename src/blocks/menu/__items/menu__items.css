@@ -5,10 +5,17 @@
     padding: 0;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
-    column-gap: 30px;
+    gap: 30px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1260px) {
+    .menu__items {
+        grid-template-columns: minmax(290px, 500px);
+        align-self: center;
+    }
+}
+
+@media screen and (max-width: 620px) {
     .menu__items {
         margin-top: 98px;
     }

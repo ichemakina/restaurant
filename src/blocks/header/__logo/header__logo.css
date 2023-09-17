@@ -8,7 +8,13 @@
     margin-top: 50px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1159px) {
+    .header__logo {
+        margin-right: 30px;
+    }
+}
+
+@media screen and (max-width: 620px) {
     .header__logo {
         margin-top: 20px;
         height: 30px;

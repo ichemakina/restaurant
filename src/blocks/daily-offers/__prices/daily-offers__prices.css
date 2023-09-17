@@ -7,7 +7,7 @@
     row-gap: 29px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .daily-offers__prices {
         margin-top: 49.25px;
         padding-left: 15px;

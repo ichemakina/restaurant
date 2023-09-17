@@ -8,7 +8,7 @@
     right: 42px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .history__design-box {
         width: 114.06px;
         height: 84.66px;

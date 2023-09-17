@@ -7,7 +7,7 @@
     margin-bottom: 20px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .restaurant-photo__copyrights {
         flex-direction: column;
         align-self: end;

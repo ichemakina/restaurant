@@ -4,7 +4,13 @@
     margin-left: 30px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1320px) {
+    .daily-offers__item-title-and-price {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 620px) {
     .daily-offers__item-title-and-price {
         flex-direction: column;
         margin-top: 26.75px;

@@ -7,7 +7,7 @@
     right: 94px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .history__cake-img {
         width: 137.2px;
         height: 221.97px;

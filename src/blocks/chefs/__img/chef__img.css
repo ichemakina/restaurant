@@ -3,7 +3,13 @@
     width: 100%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1320px) {
+    .chef__img {
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 620px) {
     .chef__img {
         height: 380px;
     }
